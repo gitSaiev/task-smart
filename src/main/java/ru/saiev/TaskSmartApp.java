@@ -1,7 +1,6 @@
 package ru.saiev;
 
-public class Main {
+public class TaskSmartApp {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
     }
 }
